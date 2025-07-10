@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-- ⚡ Fun fact: I taught English as a forein language in Thailand on and off for 3 years and have now returned to the UK and have decided to embark on a carreer change into Software Development! 
+- ⚡ Fun fact: I have recently returned to Scotland after teaching English in Thailand for two years, and pursuing a carreer change into Software Development! 
 </p>
 
 
